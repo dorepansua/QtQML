@@ -1,0 +1,11 @@
+import QtQuick
+
+
+Row{
+    id: column
+    anchors.centerIn: parent
+    spacing: 8
+    RedSquare{}
+    GreenSquare{width: 96}
+    BlueSquare{}
+}
