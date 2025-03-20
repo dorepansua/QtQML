@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Demo">F:/Github/QtQml/Quick_Starter_Animation/Demo/build/Release/Demo</file>
+
+  </qresource>
+</RCC>

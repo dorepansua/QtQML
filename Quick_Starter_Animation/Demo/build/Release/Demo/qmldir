@@ -1,0 +1,7 @@
+module Demo
+typeinfo appDemo.qmltypes
+prefer :/qt/qml/Demo/
+Main 1.0 Main.qml
+AnimationExample 1.0 AnimationExample.qml
+ClickableImageV2 1.0 ClickableImageV2.qml
+

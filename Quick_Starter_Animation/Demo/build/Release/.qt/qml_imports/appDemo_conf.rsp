@@ -1,0 +1,14 @@
+-rootPath
+F:/Github/QtQml/Quick_Starter_Animation/Demo
+-cmake-output
+-output-file
+F:/Github/QtQml/Quick_Starter_Animation/Demo/build/Release/.qt/qml_imports/appDemo_conf.cmake
+-importPath
+F:/Github/QtQml/Quick_Starter_Animation/Demo/build/Release/Demo
+-importPath
+F:/Github/QtQml/Quick_Starter_Animation/Demo/build/Release
+-importPath
+C:/Qt/6.7.2/msvc2019_64/./qml
+-qrcFiles
+F:/Github/QtQml/Quick_Starter_Animation/Demo/build/Release/.qt/rcc/qmake_Demo.qrc
+F:/Github/QtQml/Quick_Starter_Animation/Demo/build/Release/.qt/rcc/appDemo_raw_qml_0.qrc

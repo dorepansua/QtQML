@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt/qml/Demo/">
+    <file alias="Main.qml">F:/Github/QtQml/Quick_Starter_Animation/Demo/Main.qml</file>
+    <file alias="AnimationExample.qml">F:/Github/QtQml/Quick_Starter_Animation/Demo/AnimationExample.qml</file>
+    <file alias="ClickableImageV2.qml">F:/Github/QtQml/Quick_Starter_Animation/Demo/ClickableImageV2.qml</file>
+    <file alias="example1.png">F:/Github/QtQml/Quick_Starter_Animation/Demo/example1.png</file>
+    <file alias="box_green.png">F:/Github/QtQml/Quick_Starter_Animation/Demo/box_green.png</file>
+  </qresource>
+</RCC>
+

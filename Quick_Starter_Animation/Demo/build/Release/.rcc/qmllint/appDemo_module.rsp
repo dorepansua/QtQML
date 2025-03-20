@@ -1,0 +1,10 @@
+-I
+F:/Github/QtQml/Quick_Starter_Animation/Demo/build/Release
+-I
+C:/Qt/6.7.2/msvc2019_64/./qml
+--resource
+F:/Github/QtQml/Quick_Starter_Animation/Demo/build/Release/.qt/rcc/qmake_Demo.qrc
+--resource
+F:/Github/QtQml/Quick_Starter_Animation/Demo/build/Release/.qt/rcc/appDemo_raw_qml_0.qrc
+--module
+Demo

@@ -1,0 +1,7 @@
+--resource
+F:/Github/QtQml/Quick_Starter_Animation/Demo/build/Release/.qt/rcc/qmake_Demo.qrc
+--resource
+F:/Github/QtQml/Quick_Starter_Animation/Demo/build/Release/.qt/rcc/appDemo_raw_qml_0.qrc
+/qt/qml/Demo/Main.qml
+/qt/qml/Demo/AnimationExample.qml
+/qt/qml/Demo/ClickableImageV2.qml
